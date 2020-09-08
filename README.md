@@ -28,21 +28,26 @@ An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
 
 From within the root directory
 
+```sh
 npm install -g webpack
-
 npm install
+```
 
 ## Development
 
 For development mode this project uses nodemon and webpack watching for changes
 
+```sh
 npm run react:dev
 npm start
+```
 
 ## Production
 For production mode this project uses webpack in production
 
+```sh
 npm run build
 npm start
+```
 ```
 
