@@ -1,6 +1,6 @@
 # Project Name
 
-> Project description
+> Microservice responsible for managing, storing and displaying data related to the property hosts.
 
 ## Related Projects
 
@@ -10,14 +10,9 @@
 
 ## Table of Contents
 
-1. [Usage](#Usage)
 1. [Requirements](#requirements)
 1. [Development](#development)
 1. [Production](#production)
-
-## Usage
-
-> Some usage instructions
 
 ## Requirements
 
@@ -29,12 +24,12 @@ An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
 - Webpack
 - Babel
 
-### Installing Dependencies
+## Installing Dependencies
 
-From within the root directory:
+From within the root directory
 
-```sh
 npm install -g webpack
+
 npm install
 
 ## Development
